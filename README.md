@@ -1,6 +1,14 @@
 # 👋 Hi, I'm Bimbo Olukoya Solanke  
 💻 Data Analyst | 🌐 ICT Systems Specialist | 🎓 AI & Machine Learning Enthusiast  
 
+# Welcome to My GitHub!
+
+![GitHub followers](https://img.shields.io/github/followers/BimboSolanke?style=social)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BimboSolanke&show_icons=true&theme=dark)
+
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
+
 ## 🚀 About Me  
 I am a **data analyst and ICT systems specialist** with expertise in **Azure, AI, data analytics, and network optimization**. Currently pursuing a **Master’s in Data Analytics**, I have hands-on experience in **cloud management (Azure, Intune, Meraki)**, **enterprise system integrations**, and **data visualization (Power BI, Tableau, Python)**.  
 
@@ -46,5 +54,7 @@ I am a **data analyst and ICT systems specialist** with expertise in **Azure, AI
 📧 **Email:** bibikoya3@gmail.com  
 📌 **GitHub:** [BimboSolanke](https://github.com/BimboSolanke)  
 
-🚀 Always eager to collaborate and explore innovations in **AI, data science, and ICT systems management**!  
+🚀 Always eager to collaborate and explore innovations in **AI, data science, and ICT systems management**! 
+
+
 
