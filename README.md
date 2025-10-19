@@ -35,10 +35,12 @@ I am a **data analyst and ICT systems specialist** with expertise in **Azure, AI
 
 ## 🏆 Certifications & Achievements  
 ✅ **Microsoft Certified Technology Specialist (MCTS)**  
-✅ **Power BI Data Analyst Associate (PL-300) (In Progress)**  
+✅ **Power BI Data Analyst Associate (PL-300) Certified 
+Microsoft Certified: Power BI Data Analyst Associate
+Issued May 2025 Credential ID 155AE29C4CAA9327**  
 ✅ **Meraki Network Administration**  
 ✅ **Getting Started with Azure IoT Hub – Coursera**  
-✅ **President’s Academic Distinction List (2024)**  
+✅ **President’s Academic Distinction List (2024 and 2025) for 3 terms**  
 
 ---
 
